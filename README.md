@@ -80,3 +80,4 @@ Os registros são armazenados localmente no dispositivo, permitindo que os dados
 
 O projeto foi desenvolvido como atividade prática para aplicar conceitos de desenvolvimento de aplicativos utilizando Flutter e Dart. 
 "# flutter_consumo_agua" 
+"# flutter_consu" 
