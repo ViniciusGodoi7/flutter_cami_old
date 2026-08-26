@@ -78,4 +78,4 @@ Também é possível executar o projeto diretamente pelo VS Code utilizando um d
 
 Os registros são armazenados localmente no dispositivo, permitindo que os dados continuem disponíveis mesmo depois de fechar o aplicativo.
 
-O projeto foi desenvolvido como atividade prática para aplicar conceitos de desenvolvimento de aplicativos utilizando Flutter e Dart.
+O projeto foi desenvolvido como atividade prática para aplicar conceitos de desenvolvimento de aplicativos utilizando Flutter e Dart. 
