@@ -68,7 +68,11 @@ Também é possível executar o projeto diretamente pelo VS Code utilizando um d
 
 ## 📱 Imagens do aplicativo
 
-![Telas do aplicativo](imagens/telas.jpg)
+<p align="center">
+  <img src="assets/images/telas.png" width="45%">
+  <img src="assets/images/telas2.png" width="45%">
+</p>
+
 
 ## 📌 Observações
 
