@@ -1,40 +1,38 @@
-# 💧 Consumo de Água
+# 🚶 Aplicativo de Caminhada
 
-Aplicativo desenvolvido com Flutter para ajudar no registro e acompanhamento do consumo de água durante o dia.
+Aplicativo desenvolvido com Flutter para ajudar no registro e acompanhamento das caminhadas realizadas durante o dia.
 
 ## 🎯 Sobre o projeto
 
-O aplicativo permite que o usuário registre seu consumo de água e acompanhe seu progresso em relação à meta diária.
+O aplicativo permite que o usuário registre suas caminhadas e acompanhe informações sobre as atividades realizadas.
 
-Para realizar os cálculos, são utilizados:
+Para realizar os registros, são utilizados:
 
-* Data do consumo
-* Quantidade de água ingerida em ml
-* Peso do usuário em kg
+* Data da caminhada
+* Distância percorrida em km
+* Tempo da caminhada em minutos
+* Calorias gastas
+* Observações da atividade
 
-### 📊 Cálculo da meta
+### 📊 Informações da caminhada
 
-A meta diária de água é calculada utilizando a fórmula:
-
-**Meta diária = peso × 35**
-
-A porcentagem de progresso é calculada com base na quantidade consumida:
-
-**Porcentagem = (água consumida ÷ meta diária) × 100**
+O aplicativo apresenta informações relacionadas às caminhadas registradas, permitindo que o usuário acompanhe seu desempenho e visualize seu histórico de atividades.
 
 ## ✨ Recursos disponíveis
 
-* 💧 Registro do consumo de água
-* 📅 Histórico dos registros
+* 🚶 Registro de caminhadas
+* 📅 Histórico das caminhadas
 * ✏️ Alteração dos registros cadastrados
 * 🗑️ Exclusão de registros
-* 🎯 Definição automática da meta diária
-* 📈 Acompanhamento da porcentagem da meta
-* ➕ Soma do consumo realizado durante o dia
+* 📏 Registro da distância percorrida
+* ⏱️ Registro do tempo da caminhada
+* 🔥 Registro das calorias gastas
+* 📊 Acompanhamento das atividades realizadas
+* ➕ Soma das distâncias percorridas
 * 💾 Armazenamento dos dados no dispositivo
 * 🌙 Opção de tema claro e escuro
 * 🚀 Tela inicial (Splash Screen)
-* 📊 Gráfico para visualizar o consumo
+* 📈 Gráfico para visualizar o desempenho
 * 🎨 Interface personalizada
 
 ## 🛠️ Tecnologias utilizadas
@@ -73,12 +71,10 @@ Também é possível executar o projeto diretamente pelo VS Code utilizando um d
   <img src="assets/images/telas 22.png" width="45%">
 </p>
 
-
 ## 📌 Observações
 
 Os registros são armazenados localmente no dispositivo, permitindo que os dados continuem disponíveis mesmo depois de fechar o aplicativo.
 
-O projeto foi desenvolvido como atividade prática para aplicar conceitos de desenvolvimento de aplicativos utilizando Flutter e Dart. 
-"# flutter_consumo_agua" 
-"# flutter_consu"  
-"# flutter-consumo-agua" 
+O projeto foi desenvolvido como atividade prática para aplicar conceitos de desenvolvimento de aplicativos utilizando Flutter e Dart.
+
+"# flutter-caminhada"
